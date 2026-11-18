@@ -36,7 +36,7 @@ It works alongside your existing Java setup (`jdtls`, `nvim-java`, ...) and does
 
 ```lua
 {
-  "YOUR_USERNAME/javafx.nvim",
+  "filo99-dev/javafx.nvim",
   lazy = false, -- the plugin registers the .fxml filetype, so don't lazy-load on ft
   opts = {
     mappings = true, -- optional <leader>j* keymaps, see below
